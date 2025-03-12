@@ -3,6 +3,7 @@
 
 Plans section with price on a dashboard
 
+🔗Link: https://prices-plans.vercel.app/
 ## 🛠 Skills
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
   ![tailwindcss](https://img.shields.io/badge/-tailwindcss-333333?style=flat&logo=tailwindcss)
